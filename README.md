@@ -1,11 +1,7 @@
-# gh-advanved-security
-Repository for GitHub Advanced Security Hands-On
 
 # 🧪 GitHub Advanced Security – Hands-on Oefeningen
 
 Welkom bij de praktische oefeningen rond GitHub Advanced Security. Deze repo bevat kwetsbare demo-code die je kunt gebruiken om te leren werken met de belangrijkste beveiligingsfeatures van GitHub.
-
----
 
 ## ✅ 1. Code Scanning – Kwetsbaarheden vinden met CodeQL
 📁 Bestand: `code-scanning/app.py`
